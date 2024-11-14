@@ -11,7 +11,7 @@ This project aims to analyze and visualize the patterns in boston bike-sharing d
 **Tableau Workbook**
 
 
-https://dub01.online.tableau.com/#/site/samapundomunashe-771b2ff422/workbooks/2091473?:origin=card_share_link
+https://public.tableau.com/shared/YDTFPMHD7?:display_count=n&:origin=viz_share_link
 
 
 **Requirments**
